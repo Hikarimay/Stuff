@@ -1,0 +1,4 @@
+*.zip filter=lfs diff=lfs merge=lfs -text
+*.app filter=lfs diff=lfs merge=lfs -text
+*.3dsx filter=lfs diff=lfs merge=lfs -text
+*.cia filter=lfs diff=lfs merge=lfs -text
